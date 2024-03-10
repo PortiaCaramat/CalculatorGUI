@@ -10,7 +10,7 @@ public class CalculatorGUI extends JFrame {
 
     public CalculatorGUI() {
         setTitle("Calculator");
-        setSize(300, 200);
+        setSize(300, 250);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
